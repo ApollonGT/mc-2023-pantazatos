@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <th>Student</th>
-        <td>Pantazatos Dimitris</td>
+        <td>Dimitrios-Vasileios Pantazatos</td>
     </tr>
     <tr>
         <th>Period</th>
